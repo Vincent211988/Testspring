@@ -1,0 +1,3 @@
+com\userinfo\controller\PersonalInfo.class
+com\userinfo\controller\AuthenticationController.class
+com\userinfo\main\UserInfoApplication.class
